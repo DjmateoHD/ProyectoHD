@@ -1,5 +1,5 @@
 <?php
 
-$conexion=mysqli_connect("localhost","root","","leogin");
+$conexion=mysqli_connect("localhost","root","","login");
 
 ?>
